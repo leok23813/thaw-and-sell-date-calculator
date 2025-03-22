@@ -1,1 +1,0 @@
-# thaw-and-sell-date-calculator
